@@ -2,7 +2,15 @@ public class OOPSBannerApp {
 
     public static void main(String[] args) {
 
-        System.out.println("OOPS");
+      // Each line corresponds to one row of the banne
+
+        System.out.println("  *****   " + "  *****   " + " ******   " + "  *****   ");
+        System.out.println(" **   **  " + " **   **  " + " **   **  " + " **   **  ");
+        System.out.println(" **   **  " + " **   **  " + " **   **  " + " **        ");
+        System.out.println(" **   **  " + " **   **  " + " ******   " + "  *****   ");
+        System.out.println(" **   **  " + " **   **  " + " **        " + "       **  ");
+        System.out.println(" **   **  " + " **   **  " + " **        " + " **   **  ");
+        System.out.println("  *****   " + "  *****   " + " **        " + "  *****   ");
 
     }
 }
